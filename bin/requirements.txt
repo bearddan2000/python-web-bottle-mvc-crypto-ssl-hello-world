@@ -1,0 +1,8 @@
+bottle
+
+# for ssl
+cheroot
+
+# for logins
+beaker
+requests
